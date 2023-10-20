@@ -1,7 +1,5 @@
-[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://replit.com/@JoeSamir/AssemblerSimulator)
 # Assembler Interpreter
 A simulator for a simple assembler interpreter that is a soultion to a codewars.com kata found <a href="https://www.codewars.com/kata/58e61f3d8ff24f774400002c/c">here</a> using the C language.
-I have solved it 4 years before using Javascript <a href="https://replit.com/@JoeSamir/Assembler-Interpreter">Here</a>.
 
 ## Problem Description
 This description is taken from the Author of the Kata (Problem).
